@@ -1,0 +1,6 @@
+framework module Pods_Course___1st_swift_apps___HW_09 {
+  umbrella header "Pods-Course - 1st swift apps - HW-09-umbrella.h"
+
+  export *
+  module * { export * }
+}
